@@ -1,0 +1,5 @@
+trainepoch:0 | ODS:0.869306 | OIS:nan | max ODS:0.869306 | max OIS:nan
+epoch:0 | ODS:0.869306 | OIS:nan | max ODS:0.869306 | max OIS:nan
+epoch:0 | ODS:0.869306 | OIS:0.827719 | AP:0.099299 | max ODS:0.869306 | max OIS:0.827719
+epoch:0 | ODS:0.869306 | OIS:0.827719 | AP:0.791048 | max ODS:0.869306 | max OIS:0.827719
+epoch:0 | ODS:0.501683 | OIS:0.505504 | AP:0.324458 | max ODS:0.501683 | max OIS:0.505504
